@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+hugo && rsync -avz --delete public/ grunmlclemens@build2be.nl:/var/www/clients/client7/groningenml.nl/web

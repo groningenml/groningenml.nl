@@ -1,0 +1,5 @@
+baseURL = "http://groningenml.nl.dev.build2be.nl"
+languageCode = "nl-NL"
+title = "GroningenML"
+theme = "ananke"
+sectionPagesMenu = "main"
