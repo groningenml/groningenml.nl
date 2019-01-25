@@ -15,4 +15,10 @@ hugo new guide/hugo.md
 
 ### Handmatig
 
-Je kunt ook gewoon een markdown bestaan aanmaken maar je hebt dan nog wel een [frontmatter](https://gohugo.io/content-management/front-matter/) header nodig.
+Je kunt ook gewoon een markdown bestand aanmaken maar je hebt dan nog wel een [frontmatter](https://gohugo.io/content-management/front-matter/) header nodig.
+
+## Starten dev server
+
+```bash
+hugo server -D
+```
