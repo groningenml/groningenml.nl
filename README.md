@@ -1,8 +1,4 @@
----
-title: "Hugo"
-date: 2019-01-20T13:34:46+01:00
-draft: true
----
+# GroningenML website
 
 ## Aanmaken van een pagina.
 

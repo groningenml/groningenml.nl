@@ -5,3 +5,5 @@ draft: false
 ---
 
 Welkom bij de website van GroningenML @ [Meetup](https://www.meetup.com/nl-NL/GroningenML/) waar we het over machine learning (ML) hebben.
+
+![ML as part of](https://i.stack.imgur.com/peXJG.jpg)
