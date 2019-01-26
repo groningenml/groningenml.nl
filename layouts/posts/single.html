@@ -9,8 +9,8 @@
         <h1 class="f1">
           {{ .Title }}
         </h1>
+        <p><span class="author">{{ .Params.author }}</span> op <span class="PublishDate">{{ .PublishDate.Format "2 January 2006" }}</span></p>
       </header>
-      <div>{{ .Params.author }}</div>
       <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
         {{ .Content }}
       </div>
