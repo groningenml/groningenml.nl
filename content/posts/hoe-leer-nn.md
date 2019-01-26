@@ -1,5 +1,5 @@
 ---
-title: "Hoe leert een neural netwerk het onderscheiden van dingen?"
+title: "Hoe leert een neural netwerk het onderscheiden der dingen?"
 date: 2019-01-20T14:03:12+01:00
 draft: false
 author: "Clemens Tolboom"
@@ -11,6 +11,6 @@ Het komt erop neer dat onderscheid gemaakt wordt op basis van of iets boven of o
 
 Door af te stappen van lineaire verbanden kun je van lijnen ook curves maken en daardoor kun je aangeven of iets boven/tussen/onder curves is.
 
-Wil je meer verschillende dingen classificeren dan kom je in een multidimensionale ruimte.
+Wil je meer verschillende dingen classificeren dan kom je in een multidimensionale ruimte terecht.
 
 {{< youtube id="UojVVG4PAG0" >}}
