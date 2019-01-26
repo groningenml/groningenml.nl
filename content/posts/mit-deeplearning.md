@@ -9,7 +9,7 @@ Deep Reinforcement Learning is onderdeel van Machine Learning. Maar dat had je w
 
 ![A Taxonomy of RL Algorithms](/images/rl_algorithms_9_15.svg)
 
-In onderbijstaande video verteld Lex Fridman wat (Deep) Reinforcement Learning is en welke methodieken er zijn. Deze is onderdeel van de serie [MIT Deep Learning](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+In bijgaande video verteld Lex Fridman wat (Deep) Reinforcement Learning is en welke methodieken er zijn. Deze is onderdeel van de serie [MIT Deep Learning](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 
 {{< youtube id="zR11FLZ-O9M" list="PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf" index="4" >}}
 
