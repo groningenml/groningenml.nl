@@ -6,5 +6,5 @@ draft: false
 
 Welkom bij de website van GroningenML @ [Meetup](https://www.meetup.com/nl-NL/GroningenML/) waar we het over machine learning (ML) hebben.
 
-![https://softwareengineering.stackexchange.com/questions/366996/distinction-between-ai-ml-neural-networks-deep-learning-and-data-mining](https://i.stack.imgur.com/peXJG.jpg)
+![https://softwareengineering.stackexchange.com/questions/366996/distinction-between-ai-ml-neural-networks-deep-learning-and-data-mining](/images/ml-as-part-of.jpg)
 [ML as part of @ StackExchange](https://softwareengineering.stackexchange.com/questions/366996/distinction-between-ai-ml-neural-networks-deep-learning-and-data-mining)
