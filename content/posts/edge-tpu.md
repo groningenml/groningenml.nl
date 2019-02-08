@@ -1,5 +1,5 @@
 ---
-title: "Google and NXP TPU"
+title: "Google and NXP TPU."
 date: 2019-01-20T13:51:00+01:00
 draft: false
 author: "Clemens Tolboom"

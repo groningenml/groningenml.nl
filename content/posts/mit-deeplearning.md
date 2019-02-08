@@ -1,5 +1,5 @@
 ---
-title: "Wat is deep reinforcement learning"
+title: "Wat is deep reinforcement learning."
 date: 2019-01-25T09:32:37+01:00
 draft: false
 author: "Clemens Tolboom"

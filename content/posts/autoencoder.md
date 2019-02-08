@@ -1,5 +1,5 @@
 ---
-title: "Gezichten genereren met een autoencoder"
+title: "Gezichten genereren met een autoencoder."
 date: 2019-01-20T14:17:21+01:00
 draft: false
 author: "Clemens Tolboom"
