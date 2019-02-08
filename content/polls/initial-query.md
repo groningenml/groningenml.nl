@@ -1,7 +1,7 @@
 ---
 title: "Skills and Expectations of GroningenML"
 date: 2019-01-20T13:15:22+01:00
-draft: false
+draft: true
 
 cssBootstrap: "/css/bootstrap.min.css"
 cssAlpaca: "/css/alpaca.min.css"
