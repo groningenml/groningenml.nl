@@ -1,7 +1,7 @@
 ---
 title: "Graph Convolutional Networks"
 date: 2019-02-13T10:51:46+01:00
-draft: true
+draft: false
 author: "Clemens Tolboom"
 ---
 
