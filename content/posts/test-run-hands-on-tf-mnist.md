@@ -27,7 +27,6 @@ Aanwezig 8 personen.
 - afbeeldingen
 - eigen getal erin
 
-
 ### Sites
 
 - kaggle.com
