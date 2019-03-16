@@ -1,5 +1,5 @@
 ---
-title: "Test Run Hands on Tf Mnist"
+title: "Test Run Hands on Tensorflow MNIST"
 date: 2019-02-28T14:37:26+01:00
 draft: false
 author: "Clemens Tolboom"
@@ -11,7 +11,6 @@ Aanwezig 8 personen.
 
 ## Opmerkingen
 
-- Wifi: GG    ww: wijzijngrandioos
 - Loop route
 - Lift 
 - Parkeren
