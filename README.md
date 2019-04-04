@@ -22,6 +22,13 @@ draft: false
 author: "Clemens Tolboom"
 ---
 ```
+## Document a meetup
+
+In `/misc` we have a notebook for each meeting. They could/should have a slides config.
+
+- Create _custom (*.html)_ and _custom (.slides.html)__
+- Move these files into `/static/meetups`
+- Update
 
 ## Polls (inactive)
 
